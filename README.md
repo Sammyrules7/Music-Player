@@ -1,4 +1,5 @@
-This is a small proget about creating a beutifull music player. 
+This is a small proget about creating a beautiful music player. 
+Taylor swift 
 
 
 
